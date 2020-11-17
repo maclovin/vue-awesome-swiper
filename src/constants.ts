@@ -60,7 +60,6 @@ export const SWIPER_EVENTS: CommonEvent[] = [
   'fromEdge',
   'setTranslate',
   'setTransition',
-  'resize',
   'observerUpdate' as CommonEvent,
   'beforeLoopFix' as CommonEvent,
   'loopFix' as CommonEvent
